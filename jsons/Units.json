@@ -1,0 +1,10 @@
+[
+{
+		"name": "Work Boats",
+		"unitType": "Civilian Water",
+		"movement": 4,
+		"cost": 30,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles until Astronomy", "Can construct [Fishing Boats]", "Uncapturable"]
+	},
+]  
