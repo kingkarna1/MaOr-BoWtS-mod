@@ -1,0 +1,9 @@
+[
+	{
+		"name": "Fishing Boats",
+		"terrainsCanBeBuiltOn": ["Coast", "Ocean", "Atoll"],
+		"food": 1,
+		"techRequired": "Sailing",
+		"uniques": ["[+1 Gold] once [Compass] is discovered"],
+	},
+]
