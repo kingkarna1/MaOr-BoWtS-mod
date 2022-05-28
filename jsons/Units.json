@@ -5,6 +5,6 @@
 		"movement": 4,
 		"cost": 30,
 		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles until Astronomy", "Can construct [Fishing Boats]", "Uncapturable"]
+		"uniques": ["Cannot enter ocean tiles until Astronomy", "Can construct [Fishing Boats]", "May create improvements on water resources", "Uncapturable"]
 	},
 ]  
